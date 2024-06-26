@@ -15,6 +15,12 @@ Requirement:-
 
    b) Screenshot - 2 [On typing the button gets enabled]
 
+      ![Screenshot 2024-06-26 204757](https://github.com/genze121/JS-Interview/assets/45147588/f197a910-3748-4e58-86f7-f4151eb4cd0a)
+
+   c) Screenshot - 3 [When any input fields are missed]
+
+      ![Screenshot 2024-06-26 204900](https://github.com/genze121/JS-Interview/assets/45147588/5bd2300d-4299-42d5-baa9-d428172856d0)
+
       
 
  
